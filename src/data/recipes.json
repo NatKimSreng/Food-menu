@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish with eggs, cheese, and pancetta.",
+      "image": "https://images.pexels.com/photos/12918198/pexels-photo-12918198.jpeg",
+      "ingredients": ["spaghetti", "eggs", "pancetta", "parmesan cheese", "black pepper"],
+      "instructions": "Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine all with pasta."
+    },
+    {
+      "id": 2,
+      "title": "Chicken Stir-Fry",
+      "description": "A quick and healthy stir-fry with chicken and vegetables.",
+      "image": "https://images.pexels.com/photos/10966436/pexels-photo-10966436.jpeg",
+      "ingredients": ["chicken breast", "bell peppers", "soy sauce", "garlic", "ginger"],
+      "instructions": "Cook chicken. Stir-fry vegetables. Add sauce and mix."
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Cake",
+      "description": "A rich and moist chocolate cake perfect for dessert.",
+      "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
+      "ingredients": ["flour", "cocoa powder", "sugar", "eggs", "butter"],
+      "instructions": "Mix dry and wet ingredients. Bake at 350°F for 30 minutes."
+    }
+  ]
