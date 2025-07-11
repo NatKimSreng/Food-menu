@@ -37,3 +37,30 @@ justify-content:center ;
 .btn-outline-danger:hover {
   background-color: #f8d7da;
 }
+.text-center.mb-3 {
+  color: #555;
+  font-size: 1.1rem;
+}
+.nav-link.active {
+  font-weight: bold;
+  color: #007bff !important;
+}
+.form-select {
+  max-width: 300px;
+  margin: 0 auto;
+}
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+}
+.mt-2 {
+  color: #555;
+}
+.card {
+  opacity: 0;
+  animation: fadeIn 0.5s ease-in forwards;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
